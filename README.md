@@ -33,7 +33,7 @@ pip install flask
 
 ### **3️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/WAF_Project.git
+git clone https://github.com/PRAJWAL9597/WAF_Project.git
 cd WAF_Project
 ```
 
